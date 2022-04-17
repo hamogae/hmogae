@@ -3,11 +3,11 @@
   <b>HYStudio를 운영하고 있는 hayun입니다! 현재 출석체크봇 프로젝트를 진행중이에요!</b>
 </p>
 
-# 개발한 프로젝트
+# Projects
 - 출석체크: https://bot.hayun.dev/daily
 
 
-# Github 통계
+# Github Status
 ![hmogae's github Status](https://github-readme-stats.vercel.app/api?username=hmogae&count_private=true&show_icons=true&theme=tokyonight)
 <a href="https://profile.codersrank.io/user/hmogae/">
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hmogae&theme=tokyonight&layout=compact)<br/>
