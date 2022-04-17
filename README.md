@@ -1,17 +1,11 @@
-# 👋안녕하세요!
-### ✨ 안녕하세요. HYStudio를 운영하고 있는 하윤(하모개)입니다!
-### 📫 현재 설명을 수정하고 있어요 !
-
-
-<h1 align="center">하윤 (hayun-dev)</h1>
+<h1 align="center">👋 안녕하세요!</h1>
 <p align="center">
-  <b>여러가지 재미있고, 편리한것들을 개발하고, 현재 개발실력은 초보입니다.</b>
+  <b>HYStudio를 운영하고 있는 hayun입니다! 현재 출석체크봇 프로젝트를 진행중이에요!</b>
 </p>
 
-# 개발한 레포
-- 출첵봇: https://hayundev.com/bot/check
-- 인증봇:
-- 서버관리봇:
+# 개발한 프로젝트
+- 출석체크: https://bot.hayun.dev/daily
+
 
 # Github 통계
 ![hmogae's github Status](https://github-readme-stats.vercel.app/api?username=hmogae&count_private=true&show_icons=true&theme=tokyonight)
