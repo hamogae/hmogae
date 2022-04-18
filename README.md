@@ -8,9 +8,9 @@
 
 
 # Github Status
-![hmogae's github Status](https://github-readme-stats.vercel.app/api?username=hmogae&count_private=true&show_icons=true&theme=tokyonight)
+![hmogae's 깃허브 정보](https://github-readme-stats.vercel.app/api?username=hmogae&count_private=true&show_icons=true&theme=tokyonight)
 <a href="https://profile.codersrank.io/user/hmogae/">
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hmogae&theme=tokyonight&layout=compact)<br/>
+![사용된 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=hmogae&theme=tokyonight&layout=compact)<br/>
   
 
 <h3 align="left">소셜미디어:</h3>
